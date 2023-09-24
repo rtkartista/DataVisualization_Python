@@ -5,7 +5,7 @@ Data visualization on experimental data utilizing "seaborn", "matplotlib", "pand
 ![Test Score](Score.PNG)
 
 ## Example Plots
-The results were generated using the data gathered during collision avoidance experimentations. Matplotlib and Seaborn packages were used to generate the below results along with numpy adn randas to make the computations efficient. 
+The results were generated using the data gathered during collision avoidance experimentations by varying algorithms as [1 or 2] and number of agent as [4, 9, 15, or 25]. Matplotlib and Seaborn packages were used to generate the below results along with numpy adn randas to make the computations efficient. 
 1. Line Plot: This plot represent the variation of in range obstacles for each agent during the experiment's duration.
 ![](plots/lineplot.png)
   
